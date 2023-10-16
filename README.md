@@ -5,6 +5,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jnananidhi" alt="jnananidhi" /></a> </p>
 
+
+- 🌱 I have done some amazing Real world projects which you can see in this profile
+  
+- 🌱 **SEO Expert**
+
 - 🌱 I’m currently learning **Javascript and JS frameworks**
 
 - 💬 Ask me about **Android,Flutter...**
