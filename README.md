@@ -7,10 +7,8 @@
 
 
 - 🌱 I have done some amazing Real world projects which you can see in this profile
-  
-- 🌱 **SEO Expert**
 
-- 🌱 I’m currently learning **Javascript and JS frameworks**
+- 🌱 I’m currently learning **Reactive programming RxJava**
 
 - 💬 Ask me about **Android,Flutter...**
 
